@@ -1,0 +1,3 @@
+What is Cloud Computing?
+
+Cloud Computing is a process where to access IT Infrastructure in the cloud which are provided by different Cloud Services like AWS, Azure ,GCP
